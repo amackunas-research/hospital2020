@@ -1,0 +1,396 @@
+(100,10,2)
+(VD/V*)t.m.: 0.5035
+(VR/V*)t.m.: 0.8902
+(V0/V*)t.m.: 0.8902
+(V0/V*)wor: 0.8510
+V0bad/V*bad: 0.9096
+(Idl/To)t.m.: 0.0749
+(Idl/To)wor: 0.1006
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.4888
+(D_ORT)t.m.: 0.4858
+(D_TRO)t.m.: 0.4887
+(D_TOR)t.m.: 0.4887
+(D_ROT)t.m.: 0.4961
+(D_RTO)t.m.: 0.4947
+(R_OTR)t.m.: 0.8767
+(R_ORT)t.m.: 0.8801
+(R_TRO)t.m.: 0.8733
+(R_TOR)t.m.: 0.8706
+(R_ROT)t.m.: 0.8833
+(R_RTO)t.m.: 0.8713
+
+(100,10,4)
+(VD/V*)t.m.: 0.6413
+(VR/V*)t.m.: 0.9035
+(V0/V*)t.m.: 0.9035
+(V0/V*)wor: 0.8820
+V0bad/V*bad: 0.8905
+(Idl/To)t.m.: 0.0893
+(Idl/To)wor: 0.1216
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.6288
+(D_ORT)t.m.: 0.6309
+(D_TRO)t.m.: 0.6290
+(D_TOR)t.m.: 0.6293
+(D_ROT)t.m.: 0.6315
+(D_RTO)t.m.: 0.6311
+(R_OTR)t.m.: 0.8956
+(R_ORT)t.m.: 0.8943
+(R_TRO)t.m.: 0.8943
+(R_TOR)t.m.: 0.8925
+(R_ROT)t.m.: 0.8974
+(R_RTO)t.m.: 0.8950
+
+(100,10,6)
+(VD/V*)t.m.: 0.7197
+(VR/V*)t.m.: 0.9050
+(V0/V*)t.m.: 0.9050
+(V0/V*)wor: 0.8794
+V0bad/V*bad: 0.9362
+(Idl/To)t.m.: 0.1400
+(Idl/To)wor: 0.1737
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.6891
+(D_ORT)t.m.: 0.7141
+(D_TRO)t.m.: 0.6881
+(D_TOR)t.m.: 0.6891
+(D_ROT)t.m.: 0.7120
+(D_RTO)t.m.: 0.7120
+(R_OTR)t.m.: 0.8863
+(R_ORT)t.m.: 0.8871
+(R_TRO)t.m.: 0.9023
+(R_TOR)t.m.: 0.8994
+(R_ROT)t.m.: 0.8946
+(R_RTO)t.m.: 0.8907
+
+(100,20,2)
+(VD/V*)t.m.: 0.6259
+(VR/V*)t.m.: 0.9051
+(V0/V*)t.m.: 0.9051
+(V0/V*)wor: 0.8737
+V0bad/V*bad: 0.9176
+(Idl/To)t.m.: 0.0830
+(Idl/To)wor: 0.1259
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.6010
+(D_ORT)t.m.: 0.6205
+(D_TRO)t.m.: 0.6018
+(D_TOR)t.m.: 0.6018
+(D_ROT)t.m.: 0.6083
+(D_RTO)t.m.: 0.6082
+(R_OTR)t.m.: 0.8954
+(R_ORT)t.m.: 0.8966
+(R_TRO)t.m.: 0.8952
+(R_TOR)t.m.: 0.8960
+(R_ROT)t.m.: 0.9002
+(R_RTO)t.m.: 0.8961
+
+(100,20,4)
+(VD/V*)t.m.: 0.8065
+(VR/V*)t.m.: 0.9404
+(V0/V*)t.m.: 0.9404
+(V0/V*)wor: 0.9271
+V0bad/V*bad: 0.9348
+(Idl/To)t.m.: 0.2677
+(Idl/To)wor: 0.3247
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.7734
+(D_ORT)t.m.: 0.7998
+(D_TRO)t.m.: 0.7750
+(D_TOR)t.m.: 0.7740
+(D_ROT)t.m.: 0.7995
+(D_RTO)t.m.: 0.7995
+(R_OTR)t.m.: 0.9219
+(R_ORT)t.m.: 0.9295
+(R_TRO)t.m.: 0.9324
+(R_TOR)t.m.: 0.9319
+(R_ROT)t.m.: 0.9372
+(R_RTO)t.m.: 0.9274
+
+(100,20,6)
+(VD/V*)t.m.: 0.8684
+(VR/V*)t.m.: 0.9593
+(V0/V*)t.m.: 0.9593
+(V0/V*)wor: 0.9431
+V0bad/V*bad: 0.9639
+(Idl/To)t.m.: 0.5028
+(Idl/To)wor: 0.5391
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.8621
+(D_ORT)t.m.: 0.8483
+(D_TRO)t.m.: 0.8621
+(D_TOR)t.m.: 0.8621
+(D_ROT)t.m.: 0.8505
+(D_RTO)t.m.: 0.8505
+(R_OTR)t.m.: 0.9515
+(R_ORT)t.m.: 0.9528
+(R_TRO)t.m.: 0.9454
+(R_TOR)t.m.: 0.9449
+(R_ROT)t.m.: 0.9577
+(R_RTO)t.m.: 0.9503
+
+(500,10,2)
+(VD/V*)t.m.: 0.1770
+(VR/V*)t.m.: 0.8115
+(V0/V*)t.m.: 0.8115
+(V0/V*)wor: 0.7746
+V0bad/V*bad: 0.8387
+(Idl/To)t.m.: 0.0572
+(Idl/To)wor: 0.0879
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.1743
+(D_ORT)t.m.: 0.1731
+(D_TRO)t.m.: 0.1741
+(D_TOR)t.m.: 0.1741
+(D_ROT)t.m.: 0.1700
+(D_RTO)t.m.: 0.1698
+(R_OTR)t.m.: 0.8006
+(R_ORT)t.m.: 0.7938
+(R_TRO)t.m.: 0.7926
+(R_TOR)t.m.: 0.7952
+(R_ROT)t.m.: 0.7942
+(R_RTO)t.m.: 0.7955
+
+(500,10,4)
+(VD/V*)t.m.: 0.2905
+(VR/V*)t.m.: 0.7910
+(V0/V*)t.m.: 0.7910
+(V0/V*)wor: 0.7528
+V0bad/V*bad: 0.8274
+(Idl/To)t.m.: 0.0703
+(Idl/To)wor: 0.0946
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.2890
+(D_ORT)t.m.: 0.2820
+(D_TRO)t.m.: 0.2885
+(D_TOR)t.m.: 0.2889
+(D_ROT)t.m.: 0.2824
+(D_RTO)t.m.: 0.2826
+(R_OTR)t.m.: 0.7810
+(R_ORT)t.m.: 0.7814
+(R_TRO)t.m.: 0.7770
+(R_TOR)t.m.: 0.7797
+(R_ROT)t.m.: 0.7806
+(R_RTO)t.m.: 0.7771
+
+(500,10,6)
+(VD/V*)t.m.: 0.3736
+(VR/V*)t.m.: 0.7843
+(V0/V*)t.m.: 0.7843
+(V0/V*)wor: 0.7594
+V0bad/V*bad: 0.7923
+(Idl/To)t.m.: 0.0714
+(Idl/To)wor: 0.1032
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.3699
+(D_ORT)t.m.: 0.3688
+(D_TRO)t.m.: 0.3696
+(D_TOR)t.m.: 0.3700
+(D_ROT)t.m.: 0.3706
+(D_RTO)t.m.: 0.3704
+(R_OTR)t.m.: 0.7781
+(R_ORT)t.m.: 0.7807
+(R_TRO)t.m.: 0.7764
+(R_TOR)t.m.: 0.7732
+(R_ROT)t.m.: 0.7783
+(R_RTO)t.m.: 0.7736
+
+(500,20,2)
+(VD/V*)t.m.: 0.2989
+(VR/V*)t.m.: 0.7971
+(V0/V*)t.m.: 0.7971
+(V0/V*)wor: 0.7563
+V0bad/V*bad: 0.7926
+(Idl/To)t.m.: 0.0647
+(Idl/To)wor: 0.0908
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.2958
+(D_ORT)t.m.: 0.2933
+(D_TRO)t.m.: 0.2955
+(D_TOR)t.m.: 0.2955
+(D_ROT)t.m.: 0.2814
+(D_RTO)t.m.: 0.2816
+(R_OTR)t.m.: 0.7872
+(R_ORT)t.m.: 0.7890
+(R_TRO)t.m.: 0.7755
+(R_TOR)t.m.: 0.7798
+(R_ROT)t.m.: 0.7915
+(R_RTO)t.m.: 0.7809
+
+(500,20,4)
+(VD/V*)t.m.: 0.4355
+(VR/V*)t.m.: 0.8008
+(V0/V*)t.m.: 0.8008
+(V0/V*)wor: 0.7677
+V0bad/V*bad: 0.8062
+(Idl/To)t.m.: 0.0690
+(Idl/To)wor: 0.0935
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.4271
+(D_ORT)t.m.: 0.4341
+(D_TRO)t.m.: 0.4272
+(D_TOR)t.m.: 0.4270
+(D_ROT)t.m.: 0.4338
+(D_RTO)t.m.: 0.4334
+(R_OTR)t.m.: 0.7945
+(R_ORT)t.m.: 0.7966
+(R_TRO)t.m.: 0.7859
+(R_TOR)t.m.: 0.7891
+(R_ROT)t.m.: 0.7959
+(R_RTO)t.m.: 0.7877
+
+(500,20,6)
+(VD/V*)t.m.: 0.5116
+(VR/V*)t.m.: 0.8186
+(V0/V*)t.m.: 0.8186
+(V0/V*)wor: 0.7937
+V0bad/V*bad: 0.8078
+(Idl/To)t.m.: 0.0746
+(Idl/To)wor: 0.0983
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.5097
+(D_ORT)t.m.: 0.5014
+(D_TRO)t.m.: 0.5097
+(D_TOR)t.m.: 0.5097
+(D_ROT)t.m.: 0.5008
+(D_RTO)t.m.: 0.5006
+(R_OTR)t.m.: 0.8152
+(R_ORT)t.m.: 0.8148
+(R_TRO)t.m.: 0.8097
+(R_TOR)t.m.: 0.8123
+(R_ROT)t.m.: 0.8166
+(R_RTO)t.m.: 0.8097
+
+(1000,10,2)
+(VD/V*)t.m.: 0.0989
+(VR/V*)t.m.: 0.8031
+(V0/V*)t.m.: 0.8031
+(V0/V*)wor: 0.7738
+V0bad/V*bad: 0.8180
+(Idl/To)t.m.: 0.0636
+(Idl/To)wor: 0.0865
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.0958
+(D_ORT)t.m.: 0.0964
+(D_TRO)t.m.: 0.0948
+(D_TOR)t.m.: 0.0948
+(D_ROT)t.m.: 0.0962
+(D_RTO)t.m.: 0.0953
+(R_OTR)t.m.: 0.7850
+(R_ORT)t.m.: 0.7875
+(R_TRO)t.m.: 0.7867
+(R_TOR)t.m.: 0.7822
+(R_ROT)t.m.: 0.7861
+(R_RTO)t.m.: 0.7808
+
+(1000,10,4)
+(VD/V*)t.m.: 0.1672
+(VR/V*)t.m.: 0.7746
+(V0/V*)t.m.: 0.7746
+(V0/V*)wor: 0.7527
+V0bad/V*bad: 0.7941
+(Idl/To)t.m.: 0.0656
+(Idl/To)wor: 0.0850
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.1639
+(D_ORT)t.m.: 0.1629
+(D_TRO)t.m.: 0.1638
+(D_TOR)t.m.: 0.1644
+(D_ROT)t.m.: 0.1622
+(D_RTO)t.m.: 0.1632
+(R_OTR)t.m.: 0.7672
+(R_ORT)t.m.: 0.7667
+(R_TRO)t.m.: 0.7638
+(R_TOR)t.m.: 0.7649
+(R_ROT)t.m.: 0.7643
+(R_RTO)t.m.: 0.7626
+
+(1000,10,6)
+(VD/V*)t.m.: 0.2309
+(VR/V*)t.m.: 0.7704
+(V0/V*)t.m.: 0.7704
+(V0/V*)wor: 0.7349
+V0bad/V*bad: 0.7656
+(Idl/To)t.m.: 0.0660
+(Idl/To)wor: 0.0928
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.2289
+(D_ORT)t.m.: 0.2266
+(D_TRO)t.m.: 0.2288
+(D_TOR)t.m.: 0.2294
+(D_ROT)t.m.: 0.2265
+(D_RTO)t.m.: 0.2265
+(R_OTR)t.m.: 0.7653
+(R_ORT)t.m.: 0.7652
+(R_TRO)t.m.: 0.7577
+(R_TOR)t.m.: 0.7576
+(R_ROT)t.m.: 0.7630
+(R_RTO)t.m.: 0.7577
+
+(1000,20,2)
+(VD/V*)t.m.: 0.1570
+(VR/V*)t.m.: 0.7774
+(V0/V*)t.m.: 0.7774
+(V0/V*)wor: 0.7531
+V0bad/V*bad: 0.7858
+(Idl/To)t.m.: 0.0671
+(Idl/To)wor: 0.1072
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.1553
+(D_ORT)t.m.: 0.1535
+(D_TRO)t.m.: 0.1555
+(D_TOR)t.m.: 0.1555
+(D_ROT)t.m.: 0.1525
+(D_RTO)t.m.: 0.1521
+(R_OTR)t.m.: 0.7661
+(R_ORT)t.m.: 0.7674
+(R_TRO)t.m.: 0.7583
+(R_TOR)t.m.: 0.7565
+(R_ROT)t.m.: 0.7678
+(R_RTO)t.m.: 0.7629
+
+(1000,20,4)
+(VD/V*)t.m.: 0.2819
+(VR/V*)t.m.: 0.7708
+(V0/V*)t.m.: 0.7708
+(V0/V*)wor: 0.7315
+V0bad/V*bad: 0.8094
+(Idl/To)t.m.: 0.0643
+(Idl/To)wor: 0.0837
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.2804
+(D_ORT)t.m.: 0.2757
+(D_TRO)t.m.: 0.2804
+(D_TOR)t.m.: 0.2803
+(D_ROT)t.m.: 0.2753
+(D_RTO)t.m.: 0.2751
+(R_OTR)t.m.: 0.7648
+(R_ORT)t.m.: 0.7688
+(R_TRO)t.m.: 0.7536
+(R_TOR)t.m.: 0.7565
+(R_ROT)t.m.: 0.7641
+(R_RTO)t.m.: 0.7557
+
+(1000,20,6)
+(VD/V*)t.m.: 0.3714
+(VR/V*)t.m.: 0.7763
+(V0/V*)t.m.: 0.7763
+(V0/V*)wor: 0.7481
+V0bad/V*bad: 0.7748
+(Idl/To)t.m.: 0.0660
+(Idl/To)wor: 0.0853
+----- Heuristics quality -----
+(D_OTR)t.m.: 0.3658
+(D_ORT)t.m.: 0.3691
+(D_TRO)t.m.: 0.3659
+(D_TOR)t.m.: 0.3666
+(D_ROT)t.m.: 0.3690
+(D_RTO)t.m.: 0.3694
+(R_OTR)t.m.: 0.7722
+(R_ORT)t.m.: 0.7735
+(R_TRO)t.m.: 0.7602
+(R_TOR)t.m.: 0.7639
+(R_ROT)t.m.: 0.7726
+(R_RTO)t.m.: 0.7629
+

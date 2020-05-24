@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Hospital, MILP</description>
+	<configs>
+		<config default="true" name="MaxValue" category="opl">
+			<ref name="hospital.ops" type="setting">
+			</ref>
+			<ref name="hospital.dat" type="data">
+			</ref>
+			<ref name="hospital_maxval.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="UMaxValue" category="opl">
+			<ref name="hospital.ops" type="setting">
+			</ref>
+			<ref name="hospital.dat" type="data">
+			</ref>
+			<ref name="hospital_umaxval.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

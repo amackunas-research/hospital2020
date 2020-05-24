@@ -1,0 +1,144 @@
+(100,10,2)
+Trimmed mean time: 970
+Worst time: 9250
+(Vpb/Vp*)t.m.: 0.9975
+(Vpb/Vp*)wor: 0.9864
+(Udl/To)t.m.: 0.0655
+(Udl/To)wor: 0.0908
+
+(100,10,4)
+Trimmed mean time: 3263
+Worst time: 5164
+(Vpb/Vp*)t.m.: 0.9867
+(Vpb/Vp*)wor: 0.9716
+(Udl/To)t.m.: 0.0903
+(Udl/To)wor: 0.1116
+
+(100,10,6)
+Trimmed mean time: 5377
+Worst time: 24273
+(Vpb/Vp*)t.m.: 0.9805
+(Vpb/Vp*)wor: 0.9712
+(Udl/To)t.m.: 0.1078
+(Udl/To)wor: 0.1338
+
+(100,20,2)
+Trimmed mean time: 18727
+Worst time: 204329
+(Vpb/Vp*)t.m.: 0.9861
+(Vpb/Vp*)wor: 0.9778
+(Udl/To)t.m.: 0.0821
+(Udl/To)wor: 0.1135
+
+(100,20,4)
+Trimmed mean time: 5438
+Worst time: 65006
+(Vpb/Vp*)t.m.: 0.9971
+(Vpb/Vp*)wor: 0.9946
+(Udl/To)t.m.: 0.2466
+(Udl/To)wor: 0.2777
+
+(100,20,6)
+Trimmed mean time: 2216
+Worst time: 5819
+(Vpb/Vp*)t.m.: 0.9982
+(Vpb/Vp*)wor: 0.9959
+(Udl/To)t.m.: 0.5230
+(Udl/To)wor: 0.5275
+
+(500,10,2)
+Trimmed mean time: 730
+Worst time: 858
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0111
+(Udl/To)wor: 0.0190
+
+(500,10,4)
+Trimmed mean time: 1560
+Worst time: 1888
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 0.9999
+(Udl/To)t.m.: 0.0190
+(Udl/To)wor: 0.0264
+
+(500,10,6)
+Trimmed mean time: 2580
+Worst time: 3463
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 0.9997
+(Udl/To)t.m.: 0.0346
+(Udl/To)wor: 0.0497
+
+(500,20,2)
+Trimmed mean time: 2045
+Worst time: 3370
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0184
+(Udl/To)wor: 0.0266
+
+(500,20,4)
+Trimmed mean time: 5489
+Worst time: 7629
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 0.9995
+(Udl/To)t.m.: 0.0489
+(Udl/To)wor: 0.0580
+
+(500,20,6)
+Trimmed mean time: 88297
+Worst time: 67190358
+(Vpb/Vp*)t.m.: 0.9962
+(Vpb/Vp*)wor: 0.9924
+(Udl/To)t.m.: 0.0712
+(Udl/To)wor: 0.0765
+
+(1000,10,2)
+Trimmed mean time: 1407
+Worst time: 1498
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0079
+(Udl/To)wor: 0.0115
+
+(1000,10,4)
+Trimmed mean time: 3192
+Worst time: 3603
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 0.9999
+(Udl/To)t.m.: 0.0103
+(Udl/To)wor: 0.0146
+
+(1000,10,6)
+Trimmed mean time: 12506
+Worst time: 13042
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0145
+(Udl/To)wor: 0.0206
+
+(1000,20,2)
+Trimmed mean time: 4200
+Worst time: 5055
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0098
+(Udl/To)wor: 0.0130
+
+(1000,20,4)
+Trimmed mean time: 28513
+Worst time: 30311
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0183
+(Udl/To)wor: 0.0233
+
+(1000,20,6)
+Trimmed mean time: 69404
+Worst time: 72493
+(Vpb/Vp*)t.m.: 1.0000
+(Vpb/Vp*)wor: 1.0000
+(Udl/To)t.m.: 0.0319
+(Udl/To)wor: 0.0377
+
